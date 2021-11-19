@@ -1,4 +1,4 @@
-# Code-Compounding-Interest-with-Loops
+# Compounding-Interest-with-Loops
 
 This Python Program allows for the numeric entry of Deposit, Interest Rate Percentage, Number of Months, and your savings Goal Amount.
 
