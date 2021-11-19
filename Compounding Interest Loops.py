@@ -1,4 +1,4 @@
-#Code Compounding Interest Loops Assignment
+#Compounding Interest Loops
 
 #Keep asking until the user puts in a positive numeric value using loops
 fDeposit = 0
